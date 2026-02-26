@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ファンサ (Cover)",
+  "base_artist": "Kotoha",
+  "createdAt": "2026-02-26T11:21:43.676325Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ファンサ",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_ファンサ_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ファンサ",
+      "artist": "mona(CV.夏川椎菜) feat.HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_ファンサ_mona(CV.夏川椎菜)_feat.HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ファンサ",
+      "artist": "夏川椎菜",
+      "has_synced": true,
+      "path": "select/03_ファンサ_夏川椎菜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ファンサ",
+      "artist": "mona（CV：夏川椎菜）",
+      "has_synced": true,
+      "path": "select/04_ファンサ_mona(CV_夏川椎菜).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ファンサ (feat. Kotoha)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_ファンサ_(feat._Kotoha)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ファンサ",
+      "artist": "夜空メル, 白上フブキ, 夏色まつり, 不知火フレア, 白銀ノエル",
+      "has_synced": false,
+      "path": "select/06_ファンサ_夜空メル,_白上フブキ,_夏色まつり,_不知火フレア,_白銀ノエル.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ファンサ",
+      "artist": "mona(CV：夏川椎菜)",
+      "has_synced": true,
+      "path": "select/07_ファンサ_mona(CV_夏川椎菜).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ファンサ - Fansa (feat. Kotoha)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_ファンサ_-_Fansa_(feat._Kotoha)_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファンサ (Cover)",
+      "artist": "Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_ファンサ_(Cover)_Kotoha.txt"
+    }
+  ]
+}
